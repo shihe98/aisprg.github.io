@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **AI Security & Privacy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016. dfdfsdfsfsdfdsf
+        The **AI Security & Privacy Research Group** has been a center of excellence for AI/Data security and privacy research, teaching, and practice since its founding in 2019. 
   
   - block: collection
     content:
