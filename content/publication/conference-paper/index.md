@@ -3,6 +3,12 @@ title: "Conference Papers"
 summary: "A collection of conference papers authored by our team."
 date: "2024-01-01"
 type: "page"
+view: citation
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---
 
 ## Conference Papers
