@@ -7,7 +7,7 @@ summary: "A publication by AAII researchers has been accepted to the prestigious
 
 # Date of publication (YYYY-MM-DD)
 date: 2024-08-14
----
+
 # Type of content
 type: "news"
 
@@ -16,7 +16,6 @@ featured: true
 image:
   caption: "USENIX Security Symposium 2024"
   focal_point: "Center"
-  path: "featured.jpg"
 
 # Author
 authors:
