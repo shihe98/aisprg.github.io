@@ -18,8 +18,8 @@ image:
   focal_point: "Center"
 
 # Author
-# authors:
-#   - Bo_Liu
+authors:
+  - Bo_Liu
 
 # Tags
 tags: ["USENIX Security", "Privacy", "Deep Learning", "AAII", "Cybersecurity"]
