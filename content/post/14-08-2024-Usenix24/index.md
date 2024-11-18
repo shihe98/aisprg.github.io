@@ -1,4 +1,3 @@
-
 ---
 # Title of the News
 title: "AAII Research Accepted at USENIX Security 2024"
@@ -8,7 +7,7 @@ summary: "A publication by AAII researchers has been accepted to the prestigious
 
 # Date of publication (YYYY-MM-DD)
 date: 2024-08-14
-
+---
 # Type of content
 type: "news"
 
