@@ -1,5 +1,5 @@
 ---
-title: IJCAI 2024: When Fairness Meets Privacy
+title: "IJCAI 2024: When Fairness Meets Privacy"
 date: 2024-08-03
 ---
 
