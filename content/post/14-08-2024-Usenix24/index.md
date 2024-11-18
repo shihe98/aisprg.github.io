@@ -16,10 +16,11 @@ featured: true
 image:
   caption: "USENIX Security Symposium 2024"
   focal_point: "Center"
+  path: "featured.jpg"
 
 # Author
 authors:
-  - admin
+  - Bo_Liu
 
 # Tags
 tags: ["USENIX Security", "Privacy", "Deep Learning", "AAII", "Cybersecurity"]
