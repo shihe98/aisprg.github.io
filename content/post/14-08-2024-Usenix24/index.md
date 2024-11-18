@@ -1,32 +1,25 @@
 ---
 # Title of the News
 title: "AISP Research Accepted at USENIX Security 2024"
-
-# Summary to appear in previews or RSS feeds
-summary: "A publication by AISP researchers has been accepted to the prestigious USENIX Security 2024 Symposium, a premier event in computer security and privacy research."
-
 # Date of publication (YYYY-MM-DD)
 date: 2024-08-14
 
-# Type of content
-type: "news"
+# # Featured image (optional)
+# featured: true
+# image:
+#   caption: "USENIX Security Symposium 2024"
+#   focal_point: "Center"
 
-# Featured image (optional)
-featured: true
-image:
-  caption: "USENIX Security Symposium 2024"
-  focal_point: "Center"
-
-# Author
-authors:
-  - Bo_Liu
+# # Author
+# authors:
+#   - Bo_Liu
 
 # Tags
 tags: ["USENIX Security", "Privacy", "Deep Learning", "AISP", "Cybersecurity"]
 
-# Categories (use 'News' for announcements)
-categories:
-  - News
+# # Categories (use 'News' for announcements)
+# categories:
+#   - News
 ---
 The AI Security & Privacy (AISP) Research Group celebrates a remarkable achievement as one of its research papers has been accepted for presentation at the 33rd USENIX Security Symposium. The conference is scheduled to take place from **August 14 to 16, 2024**, at the Philadelphia Marriott Downtown in Philadelphia, PA, USA.
 
