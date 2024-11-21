@@ -12,7 +12,7 @@ sections:
         Research Group
       image:
         filename: welcome.jpg
-        size:  400px
+        size:  300px
       text: |
         <br>
         
