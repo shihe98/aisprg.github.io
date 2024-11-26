@@ -1,6 +1,7 @@
 ---
 title: Research
 date: 2024-11-27
+permalink: /research/
 description: Explore the cutting-edge research conducted by our group.
 ---
 
