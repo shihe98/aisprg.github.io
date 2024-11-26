@@ -8,13 +8,13 @@ last_name: Zhang
 
 # Username (this should match the folder name)
 authors:
-  - Guangsheng_Zhang
+  - Guangsheng Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Associate 
+role: Postdoctoral Research Associate 
 
 # Organizations/Affiliations
 organizations:

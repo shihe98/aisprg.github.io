@@ -11,14 +11,14 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Lab Director
+          - Lab Directors
           - Principal Investigators
           - Academic Staff
           - PhD Students
           - Administration
           - Visitors
           - Alumni
-      sort_by: Params.last_name
+      sort_by: Params.weight
       sort_ascending: true
     design:
       show_interests: false

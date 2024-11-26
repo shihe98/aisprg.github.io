@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal Scientist
+role: Principal Scientist, Data 61 (Lab Co-director)
 
 # Organizations/Affiliations
 organizations:
@@ -44,6 +44,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:Bo.Liu@uts.edu.au"
+  - icon: globe
+    icon_pack: fas
+    link: "https://people.csiro.au/D/M/Ming-Ding"
   - icon: google-scholar
     icon_pack: ai
     link: "https://scholar.google.com/citations?user=BoLiu"
@@ -62,7 +65,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Lab Director
+  - Lab Directors
 
 weight: 2
 ---
