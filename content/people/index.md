@@ -13,8 +13,8 @@ sections:
       user_groups:
           - Lab Director
           - Principal Investigators
-          - Researchers
-          - Grad Students
+          - Academic Staff
+          - PhD Students
           - Administration
           - Visitors
           - Alumni
