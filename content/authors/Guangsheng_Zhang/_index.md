@@ -60,7 +60,7 @@ email: ''
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-avatar: "Zhang.jpg"
+# avatar: "Zhang.jpg"
 
 user_groups:
   - Academic Staff

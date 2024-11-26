@@ -42,6 +42,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "mailto:Bo.Liu@uts.edu.au"
+  - icon: globe
+    icon_pack: fas
+    link: "https://profiles.uts.edu.au/Bo.Liu"
   - icon: google-scholar
     icon_pack: ai
     link: "https://scholar.google.com/citations?user=BoLiu"
@@ -61,4 +64,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Lab Director
+
+weight: 1
 ---

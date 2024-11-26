@@ -18,11 +18,13 @@ role: Principal Scientist
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Technology Sydney
-    url: 'https://profiles.uts.edu.au/Bo.Liu'
+  - name: Data61, CSIRO
+    url: 'https://people.csiro.au/D/M/Ming-Ding'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dr. Bo Liu is an Associate Professor at the University of Technology Sydney, specializing in cybersecurity and privacy, AI/machine learning security, and wireless communications.
+bio: 'Ming Ding (IEEE M’12-SM’17) is a Principal Research Scientist and Science Lead at Data61, CSIRO, in Sydney, NSW, Australia, and an Adjunct Professor at Swinburne University of Technology. He received his B.S. and M.S. degrees in Electronics Engineering and his Ph.D. in Signal and Information Processing from Shanghai Jiao Tong University (SJTU) in 2004, 2007, and 2011, respectively. His research focuses on data privacy and security, machine learning and AI, and information technology. Dr. Ding has co-authored over 250 publications in IEEE/ACM journals and conferences, 20+ 3GPP standardization contributions, and two books: *Multi-point Cooperative Communication Systems: Theory and Applications* (Springer, 2013) and *Fundamentals of Ultra-Dense Wireless Networks* (Cambridge University Press, 2022). He holds 21 US patents and has co-invented 100+ patents on 4G/5G technologies. Dr. Ding is currently an editor for IEEE Communications Surveys and Tutorials and has received several awards, including the IEEE Signal Processing Society Best Paper Award (2022) and recognition as a Highly Cited Researcher by Clarivate Analytics (2024).'
+
+
 
 interests:
   - Cybersecurity and Privacy
@@ -61,4 +63,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Lab Director
+
+weight: 2
 ---
