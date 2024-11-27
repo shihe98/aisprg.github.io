@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd student 
+role: PhD candidate 
 
 # Organizations/Affiliations
 organizations:
@@ -28,11 +28,11 @@ interests:
   - Fairness and Privacy
   - AI Security
 
-#education:
-#  courses:
-#    - course: "Ph.D. in Electronic Engineering"
-#      institution: "Shanghai Jiao Tong University"
-#      year: 2010
+education:
+  courses:
+    - course: "Ph.D. Candidate in Computer Science"
+      institution: "University of Technology Sydney"
+      year: Expected 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,9 +45,9 @@ social:
 #  - icon: google-scholar
 #    icon_pack: ai
 #    link: "https://scholar.google.com/citations?user=BoLiu"
-#  - icon: orcid
-#    icon_pack: ai
-#    link: "https://orcid.org/0000-0002-3603-6617"
+  - icon: orcid
+    icon_pack: ai
+    link: "https://orcid.org/0000-0003-2763-8314"
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
