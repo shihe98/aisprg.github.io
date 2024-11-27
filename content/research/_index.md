@@ -42,6 +42,9 @@ A selection of our recent publications:
 - Author Names. **Title of the Paper.** *Conference/Journal Name,* Year. [DOI/Link](#)
 - Author Names. **Title of the Paper.** *Conference/Journal Name,* Year. [DOI/Link](#)
 
+
+
+
 # Collaborations
 
 We work closely with academic institutions, industry partners, and research organizations to solve pressing challenges.
@@ -51,3 +54,22 @@ For collaboration inquiries, please [contact us](/contact/).
 ---
 
 Looking forward to sharing our research journey with you. Stay connected!
+
+
+---
+type: landing
+
+sections:
+    - block: collection
+        id: featured
+        content:
+        title: Featured Publications
+        count: 5
+        filters:
+            folders:
+            - publication
+            featured_only: true
+        design:
+        columns: '2'
+        view: masonry
+---
