@@ -9,23 +9,19 @@ description: Explore the cutting-edge research conducted by our group.
 
 Our group focuses on advancing knowledge and developing innovative solutions in the following key areas:
 
-## Artificial Intelligence and Machine Learning
-We explore foundational and applied research in AI/ML, including:
-- Supervised and unsupervised learning techniques.
-- Explainable AI (XAI) for transparent decision-making.
-- Development of scalable AI systems for real-world applications.
+## Visual data security and privacy protection
+Enhancing the safety and confidentiality of visual information through innovative AI-driven solutions.
+- Face De-identification.
+- Privacy attacks and defenses on visual data
 
-## Computational Neuroscience
-Understanding the computational principles of the brain to design intelligent systems:
-- Neural modeling and simulations.
-- Brain-inspired architectures.
-- Analysis of large-scale neural data.
+## Deepfake Detection
+Developing advanced techniques to identify and mitigate manipulated media for secure and trustworthy digital spaces.
 
-## Robotics and Autonomous Systems
-Innovative research at the intersection of AI and robotics:
-- Path planning and control algorithms.
-- Perception and sensor fusion.
-- Human-robot interaction (HRI).
+## Machine learning and privacy
+Designing machine learning methods that prioritize data protection and ethical use of sensitive information.
+
+## Fairness in AI and Machine Learning
+Ensuring AI systems are unbiased, equitable, and transparent to foster trust and inclusivity in technology.
 
 # Featured Projects
 
@@ -39,7 +35,7 @@ Innovative research at the intersection of AI and robotics:
 **Highlights:** Key achievements or areas of innovation.  
 **Collaborators:** List collaborators if any.  
 
-# Publications
+# Featured Publications
 
 A selection of our recent publications:
 - Author Names. **Title of the Paper.** *Conference/Journal Name,* Year. [DOI/Link](#)
@@ -55,55 +51,3 @@ For collaboration inquiries, please [contact us](/contact/).
 ---
 
 Looking forward to sharing our research journey with you. Stay connected!
-
-
-# type: landing
-
-# sections:
-#   - block: slider
-#     content:
-#       slides:
-#       - title: 👋 Welcome to the group
-#         content: Take a look at what we're working on...
-#         align: center
-#         background:
-#           image:
-#             filename: coders.jpg
-#             filters:
-#               brightness: 0.7
-#           position: right
-#           color: '#666'
-#       - title: Lunch & Learn ☕️
-#         content: 'Share your knowledge with the group and explore exciting new topics together!'
-#         align: left
-#         background:
-#           image:
-#             filename: contact.jpg
-#             filters:
-#               brightness: 0.7
-#           position: center
-#           color: '#555'
-#       - title: World-Class Security and Privacy Lab
-#         content: 'Funded in 2019'
-#         align: right
-#         background:
-#           image:
-#             filename: welcome.jpg
-#             filters:
-#               brightness: 0.5
-#           position: center
-#           color: '#333'
-#         link:
-#           icon: graduation-cap
-#           icon_pack: fas
-#           text: Join Us
-#           url: ../contact/
-#     design:
-#       # Slide height is automatic unless you force a specific height (e.g. '400px')
-#       slide_height: ''
-#       is_fullscreen: true
-#       # Automatically transition through slides?
-#       loop: false
-#       # Duration of transition between slides (in ms)
-#       interval: 2000
-# ---
